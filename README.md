@@ -1,9 +1,7 @@
 ## Our Team
-<p>1. Dwiky Aprian Ashari (2018-019)</p>
-<p>2. Alfiora Salmadiella (2018-020)</p>
-<p>3. Mohammad Andrie Prasetyo (2018-022)</p>
-<p>4. Febiutoyo Alifsyahwin (2018-028)</p>
-<p>5. Dwi Widianto (2018-032)</p>
+<p>1. Nurul Seoul Anggraini (2019-404)</p>
+<p>2. Giant Andili Pratama (2019-449)</p>
+<p>3. Revo Mohammad Fadillah (2019-110)</p>
 <br>
 <hr>
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
